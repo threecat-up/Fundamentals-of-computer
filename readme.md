@@ -4,7 +4,7 @@
 
 &emsp;计算机基础知识是一切的基石，所谓慢慢来会很快，只有打好基础，后面才会更快的进步。这里可以给出一个简略的思维导图：
 
-<img src="C:\Users\jhu\Desktop\408.png" alt="计算机基础" style="zoom:50%;" />
+<img src="https://user-images.githubusercontent.com/60840921/154397194-bfa4437e-cdaf-477e-af5a-781175ace264.png" alt="计算机基础" style="zoom:50%;" />
 
   ## :sunny:（一）数据结构
 
